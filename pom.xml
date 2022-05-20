@@ -47,7 +47,7 @@
         <maven.compiler.target>${version.java}</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <version.gson>2.8.6</version.gson>
+        <version.gson>2.8.9</version.gson>
         <version.java>11</version.java>
         <version.junitJupiter>5.5.2</version.junitJupiter>
         <version.mavenAssembly>3.2.0</version.mavenAssembly>
