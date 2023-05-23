@@ -57,7 +57,7 @@
         <version.mavenSource>3.2.0</version.mavenSource>
         <version.mavenSurefire>3.0.0-M4</version.mavenSurefire>
         <version.sax>2.0.1</version.sax>
-        <version.sqlite>3.30.1</version.sqlite>
+        <version.sqlite>3.41.2.2</version.sqlite>
     </properties>
 
     <build>
